@@ -1,0 +1,16 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+* {
+
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.69),rgba(0,0,0,.69)), url("../img/fundo1.jpg");
+    background-size: 220vh;
+    font-family: Arial;
+    height: 100vh;
+    margin: 0px 170px 0px 170px; /*Altura, direita, baixo, esquerda*/
+}
+
